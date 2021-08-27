@@ -10,7 +10,7 @@ The main purpose of this individual project is to scrap data from a Wikipedia pa
  *Seaborn (for visualization)
  *Plotly (for visualization)
  *Matplotlib (for visualization)
- *Beautiful Soup for data scrapping
+ *Beautiful Soup for data scrapping 
  
 ### About the dataset: 
 The dataset comprises multi lists of best selling books of all time (from [Wikipidea]) <https://en.wikipedia.org/wiki/List_of_best-selling_books>
